@@ -1,0 +1,10 @@
+* generators
+
+A common-lisp library providing python style generators (using cl-cont)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/generators.git   |
+| commit  | ceb946c  |
+| systems | generators |
+|---------+-------------------------------------------|
+
